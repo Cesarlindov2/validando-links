@@ -1,0 +1,25 @@
+{
+  "name": "links",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipefortu33/links.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/felipefortu33/links/issues"
+  },
+  "homepage": "https://github.com/felipefortu33/links#readme",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^5.2.1"
+  }
+}
